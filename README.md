@@ -1,6 +1,6 @@
-# HackerRank Java Solutions 
+# HackerRank Problem Solving Solutions 
 
-![image](https://user-images.githubusercontent.com/30997178/158071610-c19ac92c-acbd-4f57-a041-56b3b6abbf7d.png)
+![image](https://user-images.githubusercontent.com/30997178/158071792-2665fdfd-af0a-4e87-972e-222a54c31085.png)
 
 
 ![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)
